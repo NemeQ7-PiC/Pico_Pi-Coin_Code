@@ -24,7 +24,8 @@ Welcome to the PI-Coin Pico Miner project! This project brings PI-Coin mining to
 
 <img width="1421" height="326" alt="image" src="https://github.com/user-attachments/assets/ef31693f-a468-4360-8637-02d60a1ec1f0" />
 
-<img width="2368" height="4208" alt="1000045932" src="https://github.com/user-attachments/assets/4944e9c0-5a4a-4b13-9b3b-53f058aa4045" />
+<img width="1247" height="1240" alt="image" src="https://github.com/user-attachments/assets/cbed21ce-d243-493e-8de5-f71719cad113" />
+
 
 
 ## 🎯 Project Goal
