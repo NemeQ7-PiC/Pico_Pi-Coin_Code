@@ -17,7 +17,7 @@ const char* ssid = "YOUR_WIFI_SSID_HERE";
 const char* password = "YOUR_WIFI_PASSWORD_HERE";
 const char* pool_url = "http://pi-coin.serv00.net:51431"; // Do not change this!
 const char* wallet_address = "YOUR_PI-COIN_ADRESS_HERE";
-const char* miner_name = "Pi-Pico 2 W Miner";
+const char* miner_name = "MINER_NAME";
 
 static const uint32_t WORK_REFRESH_MS = 10000;
 static const uint32_t HEARTBEAT_MS = 5000;
